@@ -2,9 +2,11 @@
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
+
 ## Versions
 - Unity 2017.1.0p4
 - GVR Unity SDK v1.70.0
+
 
 ## Target Platform:
 - Android
@@ -15,10 +17,27 @@ Because I've been reading a lot about Hygge recently, I wanted to make my apartm
 
 My Skybox is not a busy city, but a nice relaxing mountain scenery and to mute up background noises you only need to turn on the music.
 
-Developing this, I felt like a kid in a candy store.
+The idea of using bookcases as dividers came to me from a very old Ikea catalog and I remember thinking how ingenious it was back then. 
+
+Overall, I really loved developing this. I am generally not an artsy person, so mixing and matching pushed my creative limits.
+
 
 ## Screenshots:
-TODO
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/GameViewScreenshot2.PNG)
+
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/GameViewScreenshot3.PNG)
+
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/GameViewScreenshot4.PNG)
+
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/ScreenshotLivingRoom.png)
+
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/ScreenshotBedroom.png)
+
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/ScreenshotOffice.png)
+
+![alt text](https://github.com/Ladydiana/VRApartment/blob/master/ScreenshotKitchen.png)
+
+
 
 ## Video:
 Click for video of Game View. Recorded with Fraps.
