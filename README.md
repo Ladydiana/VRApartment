@@ -21,7 +21,10 @@ Developing this, I felt like a kid in a candy store.
 TODO
 
 ## Video:
-TODO
+Click for video of Game View. Recorded with Fraps.
+
+[![Game View](https://img.youtube.com/vi/p0WkPcXdxjw/0.jpg)](https://youtu.be/p0WkPcXdxjw)
+
 
 ## Functionalities:
 - Globe spins/stops on click
